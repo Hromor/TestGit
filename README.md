@@ -10,4 +10,4 @@
 
 - Это [ссыль](https://webhamster.ru/mytetrashare/index/mtb0/143575842521lohpnj4q "В чем разница между Fetch и Pull") про отличия от методов
 
-![Прикольная картинка](/https://miro.medium.com/max/720/0*NyhBptaCdlTqAMnn.png)
+![Прикольная картинка](https://miro.medium.com/max/720/0*NyhBptaCdlTqAMnn.png)

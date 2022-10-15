@@ -12,7 +12,7 @@
 
 ![Схема](https://raw.github.com/xintrea/mytetra_syncro/master/base/14357584259soun9chuj/image1548152747dpzmnyxma8.png)
 
-_Источники информации:_
+**Источники информации:**
 
 - Это [ссыль](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html?ysclid=l9a8jnmpof627443430 "Агентство TexTerra") на полезный сайт по разметке.
 

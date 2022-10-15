@@ -4,13 +4,14 @@
 
 > Локальный репозитарий - это структурированное хранилище изменений проекта. В нем хранятся копии изменений, которые получены с удаленного сервера, или производились локально и были закоммичены.
 
-![Схема](https://raw.github.com/xintrea/mytetra_syncro/master/base/14357584259soun9chuj/image1548152635tqvctg3eeo.png)
+<img src="https://raw.github.com/xintrea/mytetra_syncro/master/base/14357584259soun9chuj/image1548152635tqvctg3eeo.png" alt="Схема1" width="500"/>
 
 А что же делает команда `git merge`? Она вливает (применяет) все полученные новые изменения к текущей ветке, в которой происходит работа.
 
 `git pull` — это, по сути, команда `git fetch`, после которой сразу же следует `git merge`.
 
-![Схема](https://raw.github.com/xintrea/mytetra_syncro/master/base/14357584259soun9chuj/image1548152747dpzmnyxma8.png)
+<img src="https://raw.github.com/xintrea/mytetra_syncro/master/base/14357584259soun9chuj/image1548152747dpzmnyxma8.png" alt="Схема2" width="500"/>
+
 
 **Источники информации:**
 
